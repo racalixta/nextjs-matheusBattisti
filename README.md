@@ -8,13 +8,13 @@
 - [x] Aula 01 - Introdução
 - [x] Aula 02 - Hellor World no Next.JS
 - [x] Aula 03 - Estrutura de Pastas
-- [] Aula 04
-- [] Aula 05
-- [] Aula 06
-- [] Aula 07
-- [] Aula 08
-- [] Aula 09
-- [] Aula 10
+- [x] Aula 04 - Criando Páginas e Roteamentos
+- [x] Aula 05 - Nested Routes
+- [x] Aula 06 - Navegando Entre Páginas
+- [x] Aula 07 - Novos Componentes
+- [] Aula 08 - 
+- [] Aula 09 - 
+- [] Aula 10 - 
 - [] Aula 1
 
 ---
